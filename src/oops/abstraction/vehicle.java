@@ -9,7 +9,7 @@ package oops.abstraction;
     public static void main(String[] args) {
         car car = new car();
         car. no_tyre=4;
-        car.stop();
+        car. stop();
     }
 }
 
