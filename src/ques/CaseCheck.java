@@ -1,4 +1,4 @@
-package practice;
+package ques;
 
 import java.util.Scanner;
 

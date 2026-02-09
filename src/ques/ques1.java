@@ -5,7 +5,7 @@ perform the following operation while preserving insertion order
 3rd operation:difference element in list1 that are not in list2
  */
 
-package practice;
+package ques;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
