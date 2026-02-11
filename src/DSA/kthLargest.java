@@ -1,4 +1,4 @@
-package codetantra;
+package DSA;
 /*The kth largest element is the element that would appear at position k from the end
 if the array were sorted in descending order*/
 import java.util.*;

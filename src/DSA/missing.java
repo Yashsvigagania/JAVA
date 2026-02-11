@@ -1,4 +1,4 @@
-package codetantra;
+package DSA;
 /*The missing number of a sequence is the number that is absent from a
 continuous sequence of numbers but should be present according to the sequence pattern.
  */

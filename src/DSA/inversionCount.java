@@ -1,4 +1,4 @@
-package codetantra;
+package DSA;
 //when the bigger no.comes before the smaller
 import java.util.*;
 public class inversionCount {
