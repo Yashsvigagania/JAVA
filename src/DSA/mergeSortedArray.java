@@ -1,6 +1,6 @@
 package DSA;
 import java.util.*;
-public class mergeSorted {
+public class mergeSortedArray {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         String[] arr1Str= sc.nextLine().split(" ");
