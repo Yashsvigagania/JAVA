@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class Knapsack {
+public class dynamicKnapsack {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
