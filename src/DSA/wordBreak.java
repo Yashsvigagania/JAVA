@@ -19,6 +19,7 @@ public class wordBreak {
         }
 
         public static boolean wordBreak(String s, Set<String> dict) {
+
             int n = s.length();
             boolean[] dp = new boolean[n + 1];
 
