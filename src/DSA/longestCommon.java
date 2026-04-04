@@ -6,9 +6,11 @@ public class longestCommon {
         String s1=sc.nextLine();
         String s2=sc.nextLine();
         String s3=sc.nextLine();
+
         int n1=s1.length();
         int n2=s2.length();
         int n3=s3.length();
+
         int[][][] dp=new int[n1+1][n2+1][n3+1];
         for(int i=1;i<=n1;i++){
             for(int j=1;j<=n2;j++){
