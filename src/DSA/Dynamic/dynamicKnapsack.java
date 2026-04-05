@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Dynamic;
 
 import java.util.Scanner;
 
