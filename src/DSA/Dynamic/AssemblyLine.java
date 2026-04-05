@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Dynamic;
 import java.util.*;
 public class AssemblyLine {
     public static void main(String[] args) {
