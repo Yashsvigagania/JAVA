@@ -1,6 +1,6 @@
 package DSA;
 import java.util.*;
-public class Floyd {
+public class FloydWarshall {
     static final int INF = Integer.MAX_VALUE / 2;
 
     public static void main(String[] args) {
