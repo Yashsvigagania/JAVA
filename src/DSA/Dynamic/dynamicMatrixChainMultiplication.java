@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Dynamic;
 import java.util.*;
 public class dynamicMatrixChainMultiplication {
     static int matrixChainMultiplication(int[] arr,int n){
