@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Dynamic;
 import java.util.*;
 public class FloydWarshall {
     static final int INF = Integer.MAX_VALUE / 2;
