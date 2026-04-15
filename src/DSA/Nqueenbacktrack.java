@@ -1,6 +1,6 @@
 package DSA;
 import java.util.*;
-public class Nqueen {
+public class Nqueenbacktrack {
     static List<int[]> solutions = new ArrayList<>();
 
     public static void solveNQueens(int n) {
