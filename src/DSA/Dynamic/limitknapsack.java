@@ -14,7 +14,6 @@ public class limitknapsack {
         }
         int[][][] dp=new int[n+1][m+1][k+1];
         for(int i=1;i<=n;i++){
-
             for(int w=0;w<=m;w++){
 
                 for(int j=0;j<=k;j++){
