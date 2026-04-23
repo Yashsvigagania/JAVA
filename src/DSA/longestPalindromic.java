@@ -9,6 +9,7 @@ public class longestPalindromic {
         for (int i = 0; i < n; i++) {
             dp[i][i] = 1;
         }
+
         for (int len = 2; len <= n; len++) {
             for (int i = 0; i <= n-len; i++) {
                 int j = i + len - 1;
