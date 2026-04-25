@@ -1,6 +1,6 @@
 package DSA.Dynamic;
 import java.util.*;
-public class dynamicCoinChainProblem {
+public class CoinChainProblem {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int sum=sc.nextInt();
