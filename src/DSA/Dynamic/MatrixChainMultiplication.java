@@ -1,6 +1,6 @@
 package DSA.Dynamic;
 import java.util.*;
-public class dynamicMatrixChainMultiplication {
+public class MatrixChainMultiplication {
     static int matrixChainMultiplication(int[] arr,int n){
         int[][] dp=new int[n][n];
         for(int l=2;l<n;l++){
