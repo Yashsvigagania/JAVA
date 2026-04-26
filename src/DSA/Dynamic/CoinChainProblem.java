@@ -10,6 +10,7 @@ public class CoinChainProblem {
             coins[i]=sc.nextInt();
         }
         int[] dp=new int[sum+1];
+
         dp[0]=1;
         for(int coin:coins){
             for(int i=coin;i<=sum;i++){
