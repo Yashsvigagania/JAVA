@@ -3,14 +3,11 @@ import java.util.*;
 public class AssemblyLine {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt(); // number of stations
-
         int[] a1 = new int[n];
         int[] a2 = new int[n];
         int[] t1 = new int[n];
         int[] t2 = new int[n];
-
         // input processing times
         for (int i = 0; i < n; i++) a1[i] = sc.nextInt();
         for (int i = 0; i < n; i++) a2[i] = sc.nextInt();
