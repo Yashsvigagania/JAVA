@@ -17,9 +17,7 @@ public class limitknapsack {
             for(int w=0;w<=m;w++){
                 for(int j=0;j<=k;j++){
                     dp[i][w][j]=dp[i-1][w][j];
-
                     if(w>=weight[i-1] && j>=1){
-
                        dp[i][w][j]=Math.max(dp[i][w][j],dp[i-1][w-weight[i-1]][j-1]+value[i-1]);
                     }
                 }
